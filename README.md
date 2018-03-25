@@ -1,2 +1,2 @@
-# BaseProyect
+# BaseProject
 Proyecto base para java
